@@ -16,6 +16,10 @@ body {
   font-size: 1rem;
 }
 
+.nav {
+  background-color: #000;
+}
+
 ul {
   list-style-type: none;
   padding-left: 0;
@@ -81,7 +85,7 @@ a:hover {
   background-color: rgba(53, 66, 74, 0.8);
 }
 
-.return-to-top:hover { 
+.return-to-top:hover {
   background-color: rgba(53, 66, 74, 1);
 }
 
