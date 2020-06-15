@@ -32,13 +32,15 @@ h1 {
 
 h2 {
   font-family: 'Lobster', cursive;
-  color: #2b1919;
-  font-size: 1.875rem;
+  color: #cccccc;
+  s font-size: 1.875rem;
   text-align: center;
 }
 
 h3 {
   font-size: 1.5rem;
+  color: #cccccc;
+
   /* 24px */
   margin-bottom: 14px;
   margin-top: 0;
